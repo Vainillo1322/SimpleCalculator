@@ -32,7 +32,7 @@ If you want to *compilate it yourself* you need **JDK 26 or later**
 
 ### From Releases
 
-Double Click the .jar file or use the command **java -jar Simple_Calculator.jar** in the terminal of your choise (you have to be in the folder you put the .jar for the command to work)
+Use the command **java -jar Simple_Calculator.jar** in the terminal of your choise (you have to open the folder you put the .jar in the terminal for the command to work)
 
 ### From source code
 
