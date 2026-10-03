@@ -26,7 +26,7 @@ Also it has a little message when you try to divide something by 0 and when you 
 ## Requirements
 
 For the .jar version in *Releases* you need **Java 26 or later**  
-If you want to *compilate it yourself* you need **JDK 26 or later**
+If you want to *compile it yourself* you need **JDK 26 or later**
 
 ## How to run
 
